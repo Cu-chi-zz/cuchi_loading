@@ -5,4 +5,4 @@
 ✉ [FiveM Topic](https://forum.cfx.re/t/free-loading-screen/3972175)  
 
 ## ToDo
-- [ ] #1 | Background Music
+- [ ] [#1](https://github.com/Cu-chi/cuchi_loading/issues/1) | Background Music
